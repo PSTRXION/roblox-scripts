@@ -1,4 +1,4 @@
-# NEON CLİENT V7.3
+# NEON CLİENT V7.4
 Neon client oyunda sizin zorlanmadan herşeyi tek bir clientten erişmenizi sağlayan ve bunu amaçlayan clienttir.
 Şuanda geliştirme aşamasındayız lütfen sabırlı olun tam gaz devam ediyoruz.
 
