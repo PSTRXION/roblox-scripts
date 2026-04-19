@@ -1,6 +1,7 @@
 # NEON CLİENT V8.0
 Neon client oyunda sizin zorlanmadan herşeyi tek bir clientten erişmenizi sağlayan ve bunu amaçlayan clienttir.
 Şuanda geliştirme aşamasındayız lütfen sabırlı olun tam gaz devam ediyoruz.
+Clientimiz birçok hile ve kategorsine sahiptir
 
 # Çalıştırma 
 Aşağıdaki kodu kopyalayarak en güncel neon-client e erişim sağlayabilirsiniz.
