@@ -13,5 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/neon-client/
 Yazılımımız şifre ile korunmaktadır.
 Neon client e erişmek için instagram üzerinden pstrxion.inc hesabını takip edip dm den yazmanız gerekmektedir.
 
-# DİPNOT:
-Premiumunuzun çalışması için en güncel sürümü kullanmanız gerekmektedir aksi takdirde çalışmayacaktır.
+# powered by pstrxion.inc
